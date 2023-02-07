@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TemplateGPT/static/css/main.97010a03.css",
-    "main.js": "/TemplateGPT/static/js/main.7f818c2c.js",
+    "main.css": "/TemplateGPT/static/css/main.a0a31094.css",
+    "main.js": "/TemplateGPT/static/js/main.88e404be.js",
     "static/js/787.2eb4c510.chunk.js": "/TemplateGPT/static/js/787.2eb4c510.chunk.js",
     "index.html": "/TemplateGPT/index.html",
-    "main.97010a03.css.map": "/TemplateGPT/static/css/main.97010a03.css.map",
-    "main.7f818c2c.js.map": "/TemplateGPT/static/js/main.7f818c2c.js.map",
+    "main.a0a31094.css.map": "/TemplateGPT/static/css/main.a0a31094.css.map",
+    "main.88e404be.js.map": "/TemplateGPT/static/js/main.88e404be.js.map",
     "787.2eb4c510.chunk.js.map": "/TemplateGPT/static/js/787.2eb4c510.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97010a03.css",
-    "static/js/main.7f818c2c.js"
+    "static/css/main.a0a31094.css",
+    "static/js/main.88e404be.js"
   ]
 }
