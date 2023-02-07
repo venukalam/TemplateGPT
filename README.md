@@ -2,8 +2,6 @@
 
 [Demo](https://venukalam.github.io/TemplateGPT)
 
-<iframe src="https://venukalam.github.io/TemplateGPT" title="TemplateGPT"></iframe>
-
 GraphGPT converts unstructured natural language into a knowledge graph. Pass in the synopsis of your favorite movie, a passage from a confusing Wikipedia page, or transcript from a video to generate a graph visualization of entities and their relationships. 
 
 Successive queries can update the existing state of the graph or create an entirely new structure. For example, updating the current state could involve injecting new information through nodes and edges or changing the color of certain nodes.
